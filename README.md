@@ -1,3 +1,10 @@
+![Interdisciplinary](https://img.shields.io/badge/Interdisciplinary-purple)
+![Hobby](https://img.shields.io/badge/Hobby-darkred)
+
+
+![Hardware](https://img.shields.io/badge/Hardware-blue)
+![Software](https://img.shields.io/badge/Software-lightblue)
+
 # Minor Hobby Projects Portfolio
 Collection of some of my small hobby projects. Their scope is too little for a separate repository, but they still stand as a sincere tribute to my lifetime passion for creation.
 
