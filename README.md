@@ -16,3 +16,6 @@ In the [Puzzle_Box/](./Puzzle_Box/) folder there's a showcase of a 3D-printed pu
 ### RC Transceiver
 In the [RC_Transceiver/](./RC_Transceiver/) folder you can see my first ever PCB project. It is an early prototype for a much more polished version available [here](https://github.com/A-Rozmarynowicz/Custom_RC_Transceiver). Based on the ATmega328 IC and the nRF24L01+ transceiver, it includes a power converter, two joysticks, a few pushbuttons and LEDs. Compatible with my RC vehicles ([drift car](https://github.com/A-Rozmarynowicz/RC_Drift_Car) and [off-road car](https://github.com/A-Rozmarynowicz/RC_Off-Road_Car)).
 
+### Piano Music Box
+In the [Piano_Music_Box/](./Piano_Music_Box/) there is another birthday gift project, this time a 3D-printed piano with a music box inside.
+
