@@ -22,13 +22,13 @@ I abandoned the project when I started the University, as I picked up more impor
 ## Puzzle Box
 In the [Puzzle_Box/](./Puzzle_Box/) folder there's a showcase of a 3D-printed puzzle box that I created as a gift for my friend's birthday. It requires solving 6 small riddles to open a secret container with a key to another part of the gift. The box hides a few neat mechanisms utilizing metal balls to manipulate levers and latches.
 <p align="center">
-  <img src="./Puzzle_Box/Images/Overview.jpg" alt="PCB 3D Image" width="60%"><br>
+  <img src="./Puzzle_Box/Images/Overview.jpg" alt="PCB 3D Image" width="350"><br>
   <em>Puzzle box top view.</em>
 </p>
 
 <p align="center">
-  <img src="./Puzzle_Box/Images/Side_1.jpg" alt="PCB 3D Image" width="45%">
-  <img src="./Puzzle_Box/Images/Side_2.jpg" alt="Another Image" width="45%"><br>
+  <img src="./Puzzle_Box/Images/Side_1.jpg" alt="PCB 3D Image" width="270">
+  <img src="./Puzzle_Box/Images/Side_2.jpg" alt="Another Image" width="270"><br>
   <em>Puzzle box side views.</em>
 </p>
 
