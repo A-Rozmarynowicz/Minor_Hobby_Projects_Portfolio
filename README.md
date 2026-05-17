@@ -6,7 +6,7 @@
 ![Software](https://img.shields.io/badge/Software-lightblue)
 
 # Minor Hobby Projects Portfolio
-Collection of some of my small hobby projects. Their scope is too little for a separate repository, but they still stand as a sincere tribute to my lifetime passion for creation.
+A collection of some of my small hobby projects. Their scope is too little for a separate repository, but they still stand as a sincere tribute to my lifetime passion for creation.
 
 ## Table of contents
 * [RC Car Powertrain](#rc-car-powertrain)
@@ -16,11 +16,11 @@ Collection of some of my small hobby projects. Their scope is too little for a s
 * [Other](#other)
 
 ## RC Car Powertrain
-A drive system for an RC car that consists of a custom 3D printed frame, two brushless motors, metal shafts, a differential, shock absorbers, custom wheel hubs. It took a lot of prototyping to get the parts work together smoothly.
+A drive system for an RC car that consists of a custom 3D printed frame, two brushless motors, metal shafts, a differential, shock absorbers, and custom wheel hubs. It took a lot of prototyping to get the parts to work together smoothly.
 
 Development time: from 07.2023 to 09.2023.
 
-I abandoned the project when I started the University, as I picked up more important tasks.
+I abandoned the project when I started university because I took on more important tasks.
 
 <p align="center">
 <img src="./RC_Car_Powertrain/Top_2.jpeg" alt="Rear view" width="90%"><br>
@@ -58,7 +58,7 @@ Development time: 04.2023.
 (Picture not available at the moment.)
 
 ## RC Transceiver
-My first ever PCB project. It is an early prototype for a much more polished version available [here](https://github.com/A-Rozmarynowicz/Custom_RC_Transceiver). Based on the ATmega328 IC and the nRF24L01+ transceiver, it includes a power converter, two joysticks, a few pushbuttons and LEDs. Compatible with my RC vehicles ([drift car](https://github.com/A-Rozmarynowicz/RC_Drift_Car) and [off-road car](https://github.com/A-Rozmarynowicz/RC_Off-Road_Car)).
+My first ever PCB project. It is an early prototype for a much more polished version available [here](https://github.com/A-Rozmarynowicz/Custom_RC_Transceiver). Based on the ATmega328 IC and the nRF24L01+ transceiver, it includes a power converter, two joysticks, a few pushbuttons, and LEDs. Compatible with my RC vehicles ([drift car](https://github.com/A-Rozmarynowicz/RC_Drift_Car) and [off-road car](https://github.com/A-Rozmarynowicz/RC_Off-Road_Car)).
 
 Development time: year 2021
 
@@ -68,11 +68,11 @@ Development time: year 2021
 </p>
 
 ## Other
-I have worked on multiple other projects, that either are disassembled or were never documented. These projects included:
+I have worked on multiple other projects that are either disassembled or never documented. These projects included:
 - a drone prototype, developed before I had any idea about how a quadcopter should be done,
 - a controller for a tractor's air conditioning
 - multiple small projects in embedded systems and electronics, like motor drivers or communication systems,
-- following [Ben Eater's](https://www.youtube.com/BenEater) Youtube tutorials on bulding an 8-bit computer from scratch,
+- following [Ben Eater's](https://www.youtube.com/BenEater) YouTube tutorials on building  an 8-bit computer from scratch,
 - an AC rectifier,
 - and more.
 
