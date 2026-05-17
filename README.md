@@ -19,6 +19,19 @@ In the [RC_Car_Powertrain/](./RC_Car_Powertrain/) folder you can see a drive sys
 
 I abandoned the project when I started the University, as I picked up more important tasks.
 
+<p align="center">
+<img src="./RC_Car_Powertrain/Top_2.jpeg" alt="Rear view" width="75%"><br>
+<em>Powertrain and suspension.</em>
+</p>
+
+<p align="center">
+<img src="./RC_Car_Powertrain/Side_3.jpeg" alt="Rear view" width="45%">
+<img src="./RC_Car_Powertrain/Wheel_1.jpeg" alt="Rear view" width="45%"><br>
+<em>Side view and a close-up on the wheel hub.</em>
+</p>
+
+
+
 ## Puzzle Box
 In the [Puzzle_Box/](./Puzzle_Box/) folder there's a showcase of a 3D-printed puzzle box that I created as a gift for my friend's birthday. It requires solving 6 small riddles to open a secret container with a key to another part of the gift. The box hides a few neat mechanisms utilizing metal balls to manipulate levers and latches.
 <p align="center">
