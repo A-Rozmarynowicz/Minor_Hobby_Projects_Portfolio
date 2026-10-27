@@ -58,7 +58,7 @@ Development time: 04.2023.
 <p align="center">
   <img src="./Piano_Music_Box/Piano_1.jpg" alt="Piano" width="45%">
   <img src="./Piano_Music_Box/Piano_3.jpg" alt="Piano" width="45%"><br>
-  <em>Puzzle box side views.</em>
+  <em>Piano music box.</em>
 </p>
 
 
