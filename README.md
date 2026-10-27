@@ -55,7 +55,12 @@ Another birthday gift project: this time a 3D-printed piano with a music box ins
 
 Development time: 04.2023.
 
-(Picture not available at the moment.)
+<p align="center">
+  <img src="./Piano_Music_Box/Piano_1.jpg" alt="Piano" width="45%">
+  <img src="./Piano_Music_Box/Piano_3.jpg" alt="Piano" width="45%"><br>
+  <em>Puzzle box side views.</em>
+</p>
+
 
 ## RC Transceiver
 My first ever PCB project. It is an early prototype for a much more polished version available [here](https://github.com/A-Rozmarynowicz/Custom_RC_Transceiver). Based on the ATmega328 IC and the nRF24L01+ transceiver, it includes a power converter, two joysticks, a few pushbuttons, and LEDs. Compatible with my RC vehicles ([drift car](https://github.com/A-Rozmarynowicz/RC_Drift_Car) and [off-road car](https://github.com/A-Rozmarynowicz/RC_Off-Road_Car)).
